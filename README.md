@@ -1,1 +1,1 @@
-# Beautiful-Binary-String
+# Beautiful-Binary-String This code counts the minimum number of changes needed to remove all occurrences of the substring "010" in a binary string by skipping past each found pattern to avoid overlaps. It iterates through the string, incrementing a counter whenever "010" is found, and returns that count.
